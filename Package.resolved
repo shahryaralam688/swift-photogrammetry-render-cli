@@ -37,6 +37,15 @@
       }
     },
     {
+      "identity" : "swift-photogrammetry-render",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sfomuseum/swift-photogrammetry-render.git",
+      "state" : {
+        "revision" : "f4d55f3e83ef150c053596dd75647aad415cadee",
+        "version" : "0.0.1"
+      }
+    },
+    {
       "identity" : "swift-sfomuseum-logger",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/sfomuseum/swift-sfomuseum-logger.git",
